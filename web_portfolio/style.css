@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.half1{
+    margin: 0px;
+    width: 40%;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+.half2{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+
+}
+.half3{
+    margin: 40px 65px;
+    width: 45%;
+    float: left;
+
+}
+
+.half4{
+    width: 45%;
+    height: 800px;
+    float: left;
+    margin-left:;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;  
+    background-position: right;  
+}
+
+.fullstack{
+
+    width: 40%;
+    height: 400px;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    margin: 4%;
+    border-radius: 5px;
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    
+}
+.fullstack h2{
+    margin-top: 40px;
+}
+.fullstack h3{
+    color: darkorange;
+}
+.baby{
+    width: 40%;
+    height: 400px;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    margin: 4%;
+    border-radius: 5px;
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, blue , cyan);
+    border-image-slice: 1;  
+}
+
+.baby h2{
+    margin-top: 40px;
+}
+
+.baby h3{
+    color: darkorange;
+}
+h2{
+    margin-left: 65px ;
+}
+
+.experiance area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+
+img{
+    width: 100%;
+}
+
+h1{
+    margin: 40px 65px;
+    font-size: 40px;
+}
+
+h3{
+    margin: 40px 65px;
+}
+
+.name{
+    color: darkorange;
+}
+p{
+    margin: 30px 65px;
+    color: gray;
+}
+.sub{
+    
+}
+
+.button{
+    margin: 30px 65px;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+footer p{
+    text-align: center;
+}
